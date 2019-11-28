@@ -1,0 +1,2 @@
+# -CCF_OCR
+CCF BDCI参赛项目
